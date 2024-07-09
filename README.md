@@ -1,6 +1,6 @@
 # Soil Analysis and Farmer Advisory System
 
-![Project Screenshot](path/to/your/image.jpg)
+![Project Screenshot](https://github.com/Shubham-Kumar-Sahoo/Soil-Analysis-and-Farmer-Advisory-System/blob/main/Img/img2.jpeg)
 
 This project aims to streamline the process of soil analysis and provide actionable insights to farmers. By leveraging modern web technologies and robust backend systems, this platform enables farmers to upload soil reports and receive detailed analysis and expert advice to enhance their agricultural practices.
 
