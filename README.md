@@ -13,7 +13,7 @@ This project aims to streamline the process of soil analysis and provide actiona
 - **Real-time Communication**: Seamless communication between farmers and experts, allowing farmers to ask questions and get timely responses.
 
 
-##To Run
+## To Run
 
 ### Backend Setup
 
