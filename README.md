@@ -10,6 +10,13 @@ This project aims to streamline the process of soil analysis and provide actiona
 - **Deployment**: Application containerized with Docker and hosted on AWS, ensuring high availability and performance.
 - **Real-time Communication**: Seamless communication between farmers and experts, allowing farmers to ask questions and get timely responses.
 
+### Additional Features
+
+- **Explore Weather Details**: Discover the latest weather information relevant to your location.
+- **Predict Crop Diseases**: Click the button to predict possible diseases affecting your crops based on soil reports.
+- **Talk to Expert**: Use the form to submit inquiries and receive expert advice.
+
+
 ![Project Screenshot](https://github.com/Shubham-Kumar-Sahoo/Soil-Analysis-and-Farmer-Advisory-System/blob/main/Img/img2.jpeg)
 
 
@@ -45,9 +52,3 @@ This project aims to streamline the process of soil analysis and provide actiona
    npm start
    ```
 3. Access the application at `http://localhost:3000`.
-
-## Additional Features
-
-- **Explore Weather Details**: Discover the latest weather information relevant to your location.
-- **Predict Crop Diseases**: Click the button to predict possible diseases affecting your crops based on soil reports.
-- **Talk to Expert**: Use the form to submit inquiries and receive expert advice.
