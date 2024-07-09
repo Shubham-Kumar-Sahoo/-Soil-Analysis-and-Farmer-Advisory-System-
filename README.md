@@ -1,7 +1,5 @@
 # Soil Analysis and Farmer Advisory System
 
-![Project Screenshot](https://github.com/Shubham-Kumar-Sahoo/Soil-Analysis-and-Farmer-Advisory-System/blob/main/Img/img2.jpeg)
-
 This project aims to streamline the process of soil analysis and provide actionable insights to farmers. By leveraging modern web technologies and robust backend systems, this platform enables farmers to upload soil reports and receive detailed analysis and expert advice to enhance their agricultural practices.
 
 ### Features
@@ -11,6 +9,8 @@ This project aims to streamline the process of soil analysis and provide actiona
 - **Data Management**: Backend system developed using Python and MySQL to manage and process large datasets efficiently.
 - **Deployment**: Application containerized with Docker and hosted on AWS, ensuring high availability and performance.
 - **Real-time Communication**: Seamless communication between farmers and experts, allowing farmers to ask questions and get timely responses.
+
+![Project Screenshot](https://github.com/Shubham-Kumar-Sahoo/Soil-Analysis-and-Farmer-Advisory-System/blob/main/Img/img2.jpeg)
 
 
 ## To Run
