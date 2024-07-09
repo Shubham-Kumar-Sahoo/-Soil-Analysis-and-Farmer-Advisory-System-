@@ -17,6 +17,7 @@ This project aims to streamline the process of soil analysis and provide actiona
 - **Talk to Expert**: Use the form to submit inquiries and receive expert advice.
 
 
+
 ![Project Screenshot](https://github.com/Shubham-Kumar-Sahoo/Soil-Analysis-and-Farmer-Advisory-System/blob/main/Img/img2.jpeg)
 
 
